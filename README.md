@@ -1,4 +1,4 @@
-### Encurtador de URL
+### Url Shortner
 
 Neste projeto, vou guiá-lo na criação de um encurtador de URL usando uma API em JavaScript! Adicionalmente, implementamos um design moderno com um atraente fundo de gradiente em malha e elementos de vidro (glassmorphism). A API do site TinyURL foi integrada para fornecer a funcionalidade de encurtamento de URLs❗️
 

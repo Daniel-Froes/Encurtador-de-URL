@@ -4,7 +4,7 @@ Neste projeto, vou guiá-lo na criação de um encurtador de URL usando uma API 
 
 # Screeshot
 
-![captura de tela](screenshot.jpg)
+![captura de tela](screenshot.png)
 
 # Como Funciona
 1. **Entrada da URL:** Insira a URL longa que deseja encurtar.
